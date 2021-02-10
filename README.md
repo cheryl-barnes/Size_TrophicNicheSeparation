@@ -1,5 +1,4 @@
-## Citation: 
-Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
+# Citation: Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
 
 ## Questions/Comments: 
 Cheryl Barnes, cheryl.lee.barnes@gmail.com
