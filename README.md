@@ -1,7 +1,6 @@
-# Citation: Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
+### <b>Citation</b>: Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
 
-## Questions/Comments: 
-Cheryl Barnes, cheryl.lee.barnes@gmail.com
+### <b>Questions/Comments<b/>: Cheryl Barnes, cheryl.lee.barnes@gmail.com
 
 ## Overview
 To minimize negative effects of competition, predators must divide resources along one or more niche dimensions. Trophic niche separation is a principal method of resource partitioning in marine environments and is often assessed by quantifying diets of fishes with similar lengths. Taxonomic differences in allometric growth, however, suggest that the degree of gape limitation at a given body size varies among species. We studied resource overlap between two potential competitors in Southeast Alaska: Pacific Halibut (<i>Hippoglossus stenolepis</i>) and Arrowtooth Flounder (<i>Atheresthes stomias</i>). We quantified length–gape relationships and assessed effects of fork length (FL; cm), gape height (GH; mm), and gape width (GW; mm) on interpretations of trophic niche separation. The files herein supply all data and code necessary to reproduce the tables and figures found in Barnes et al. (2021). 
