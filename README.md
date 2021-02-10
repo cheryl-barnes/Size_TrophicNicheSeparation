@@ -1,4 +1,5 @@
-## <b> Citation</b>: Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
+## Citation: 
+Barnes, C. L., Beaudreau A. H., and Yamada R. N. 2021. The role of size in trophic niche separation between two groundfish predators in Alaskan waters. Marine and Coastal Fisheries. doi: 10.1002/mcf2.10141. 
 
 ## Questions/Comments: 
 Cheryl Barnes, cheryl.lee.barnes@gmail.com
@@ -9,13 +10,11 @@ To minimize negative effects of competition, predators must divide resources alo
 ## File Structure
 All data (morphometric, field-based, and diet) can be found in the 'Data' folder. R scripts are located in the 'Scripts' folder, separated according to analytical technique, and ordered just as findings are presented in the publication. Resulting plots can be found in the 'Plots' folder. All analyses were conducted using R v4.0.0 (R Core Team 2020).
 
-
 ## Data Sources
 This research was sponsored by the Pollock Conservation Cooperative Research Center (G00009488), the Rasmuson Fisheries Research Center associated with the University of Alaska Fairbanks, and two Northern Gulf of Alaska Applied Research Awards. The University of Alaska Southeast Sitka Campus provided facilities and additional support. Kenji Yamada (manager of Shelter Lodge) and Dean Murayama (owner of Anchor Point Lodge) donated considerable amounts of time and resources during data collection. Lodge captains Darryl Chow, Edmond Coccagna, Ken Fukada, Jason Helyer, Ben Huntley, Wayne Nasu, Brandon Rux, Ikaika Vivas, and Jon Wilson obtained the vast majority of samples and related field data. We would like to also recognize substantial contributions by research assistants Madison Bargas, Katie Brown, Helena Delgado‐Nordmann, Amanda Gile, Georgina Hunt, Zach Johanson, Aiden Kamber, Sawyer Link, and Harmony Wayner. Martin Dorn, Kirstin Holsman, Mary Hunsicker, Franz Mueter, and two anonymous reviewers offered comments to improve this manuscript. 
 
 
 ## Selected References 
-
 &#8212; Anderson, M. J. 2006. Distance-based tests for homogeneity of multivariate dispersions. Biometrics 62:245–253. <br>
 &#8212; Anderson, M. J., K. E. Ellingsen, and B. H. McArdle. 2006. Multivariate dispersion as a measure of beta diversity. Ecology Letters 9:683–693. <br>
 &#8212; Anderson, M. J., and D. C. I. Walsh. 2013. PERMANOVA, ANOSIM, and the Mantel test in the face of heterogeneous dispersions: what null hypothesis are you testing? Ecological Monographs 83:557–574. <br>
